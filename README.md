@@ -1,4 +1,4 @@
-# EGCP_450_Lab_6
+# EGCP_450_Digital_Piano
 Uses a DAC to output a sine wave
 
 Error with the frequency that is intended to be outputted
